@@ -1,3 +1,3 @@
 plugins {
-    `java-library`
+    id("msbank-application-conventions")
 }
